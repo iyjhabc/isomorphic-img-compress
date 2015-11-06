@@ -1,13 +1,27 @@
 {
-  "name": "html5ImgCompress",
+  "name": "html5-image-compress",
   "description": "html5 Img Compress",
   "version": "0.1.0",
-  "author": "Mu Haibao<mhbseal@163.com>",
+  "author": "Mu Haibao <mhbseal@163.com>",
   "homepage": "http://github.com/mhbseal/html5ImgCompress",
   "scripts": {
     "build": "webpack -p"
   },
   "devDependencies": {
     "webpack": "^1.11.0"
+  },
+  "main": "dist/html5ImgCompress.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shupan123/html5ImgCompress.git"
+  },
+  "keywords": [
+    "html5",
+    "image",
+    "compress"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shupan123/html5ImgCompress/issues"
   }
 }
