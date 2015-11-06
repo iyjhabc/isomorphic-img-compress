@@ -1,9 +1,9 @@
 {
   "name": "html5-image-compress",
   "description": "html5 Img Compress",
-  "version": "0.1.1",
-  "author": "Mu Haibao <mhbseal@163.com>",
-  "homepage": "http://github.com/mhbseal/html5ImgCompress",
+  "version": "0.1.2",
+  "author": "Shu Pan <shupan123@163.com>",
+  "homepage": "https://github.com/shupan123/html5ImgCompress",
   "scripts": {
     "build": "webpack -p"
   },
