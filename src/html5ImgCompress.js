@@ -12,7 +12,7 @@ define([], function() {
     src = scripts[scripts.length - 1].src;
 
   // 打包 async require path
-  __webpack_public_path__ = src.substr(0, src.lastIndexOf('/') + 1);
+  // __webpack_public_path__ = '/';
 
   /**
    * 组件构造器

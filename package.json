@@ -1,9 +1,9 @@
 {
-  "name": "html5-image-compress",
+  "name": "isomorphic-image-compress",
   "description": "html5 Img Compress",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "author": "Shu Pan <shupan123@163.com>",
-  "homepage": "https://github.com/shupan123/html5ImgCompress",
+  "homepage": "https://github.com/iyjhabc/isomorphic-img-compress",
   "scripts": {
     "build": "webpack -p"
   },
@@ -13,7 +13,7 @@
   "main": "src/html5ImgCompress.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shupan123/html5ImgCompress.git"
+    "url": "git+https://github.com/iyjhabc/isomorphic-img-compress.git"
   },
   "keywords": [
     "html5",
@@ -22,6 +22,6 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shupan123/html5ImgCompress/issues"
+    "url": "https://github.com/iyjhabc/isomorphic-img-compress/issues"
   }
 }
